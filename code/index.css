@@ -1,0 +1,71 @@
+/* container organization and grid layout */
+body, html {
+    margin:0; padding:0;
+    width:99.5vw; height:99.5vh;
+}
+
+#container {
+    position:relative;
+    width: 98%; height: 95%;
+    font-size:1em;
+    font-family:'Franklin Gothic Medium', sans-serif;
+    display:grid; grid-template-rows:15% 85%;
+    text-align:center; 
+    padding:1%;
+}
+
+#welcome { grid-column:span 2; }
+
+#store_side_panel {
+    display:grid;
+    grid-template-columns:100%;
+    grid-template-rows:50% 50%;
+}
+
+#pie_div, #word_cloud_div {
+    display:grid;
+    grid-template-columns:100%;
+    grid-template-rows:10% 90%;
+    justify-content:center; 
+    text-align:center;
+}
+
+#side_panel {
+    grid-template-columns:50% 50%;
+    grid-template-rows:100%;
+}
+
+#scatter_div, #bar_div {
+    display: grid;
+    grid-template-columns:100%;
+    grid-template-rows:10% 90%;
+}
+
+#scatter_header, #bar_header {
+    text-align:center;
+    align-items:center;
+}
+
+.hide { display:none; }
+
+.show { display:grid; }
+
+/* tooltip display */
+.tooltip text { fill:black; font-size:0.8em; font-weight:600; }
+
+/* scatter plot dots */
+.dot:hover { stroke:blue;  stroke-width:2; }
+
+.bar:hover { fill:red; stroke:red; }
+
+/* back to store and info buttons */
+#back_to_store_btn { r:15; stroke-width:2px; stroke:black; }
+
+#back_to_store_btn:hover { stroke:yellow; }
+
+#info_btn { stroke-width:2px; stroke:black; }
+
+#info_btn:hover { stroke-width:2px; stroke:yellow; }
+
+/* dropdown menus */
+select { margin: 1%; }

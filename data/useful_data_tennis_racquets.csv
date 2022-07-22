@@ -1,0 +1,211 @@
+name,head_size,length,power,flex,tension,brand,beam_width,weight,balance,speed,composition,price,swing_weight
+Racquet0,98.0,27.0,0,64.0,52.5,Dunlop,21.5,314.0,0,2,sonic core with infinergy,219.99,326.0
+Racquet1,98.0,27.0,0,64.0,52.5,Head,20.8,323.0,0,2,graphene 360+   graphite,239.95,329.0
+Racquet2,100.0,27.0,1,70.0,52.0,Tecnifibre,23.0,288.5,0,1,dynacore xtc   graphite,209.95,313.0
+Racquet3,98.0,27.0,0,68.0,52.0,Tecnifibre,22.5,313.5,0,2,dynacore xtc   graphite,229.95,331.0
+Racquet4,98.0,27.0,0,67.0,52.0,Tecnifibre,22.5,308.5,0,2,dynacore xtc   graphite,219.95,316.0
+Racquet5,100.0,27.0,1,72.0,52.0,Tecnifibre,23.0,303.5,0,1,dynacore xtc   graphite,209.95,318.0
+Racquet6,100.0,27.0,1,66.0,55.0,Wilson,23.7,269.5,0,1,high performance carbon fiber,129.0,301.0
+Racquet7,100.0,27.0,1,69.0,55.0,Wilson,24.0,285.0,0,1,carbon fiber,139.0,300.0
+Racquet8,104.0,27.0,1,60.0,52.5,Head,24.0,294.0,0,1,graphene 360+   graphite,199.95,310.0
+Racquet9,100.0,27.0,0,62.0,52.5,Head,20.0,323.0,0,2,graphene 360+   graphite,239.95,330.0
+Racquet10,100.0,27.5,1,70.0,54.5,Babolat,24.0,309.0,0,2,htr   graphite,229.0,320.0
+Racquet11,98.0,27.0,0,66.0,55.0,Wilson,20.6,312.0,0,2,braided graphite   basalt,159.0,325.0
+Racquet12,100.0,27.0,1,66.0,52.5,Yonex,23.7,309.0,0,1,2g-namd flex force   graphite   vdm,239.0,324.0
+Racquet13,100.0,27.0,1,68.0,52.5,Yonex,23.8,293.0,0,1,hm graphite   m40x with vdm hm graphite   m40x   vdm,239.0,311.0
+Racquet14,100.0,27.0,0,61.0,52.5,Head,22.0,303.5,0,2,graphene 360+   graphite,229.95,320.0
+Racquet15,100.0,27.0,1,70.0,54.5,Babolat,24.0,293.5,0,1,htr   graphite,209.0,316.0
+Racquet16,97.0,27.0,1,70.0,55.0,Wilson,23.0,298.0,0,2,braided graphite   kevlar,219.0,315.0
+Racquet17,104.0,27.0,2,60.0,57.0,Head,24.0,278.0,1,0,graphene 360+   graphite,189.95,300.0
+Racquet18,95.0,27.0,0,63.0,55.0,Dunlop,20.5,323.5,0,2,sonic core with infinergy   graphite,219.99,318.0
+Racquet19,100.0,27.0,1,72.0,52.5,Wilson,24.3,307.5,0,1,high performance carbon fiber,199.0,310.0
+Racquet20,100.0,27.0,1,69.0,55.0,Wilson,23.7,289.5,0,1,high performance carbon fiber,139.0,315.0
+Racquet21,107.0,27.2,1,62.0,52.5,Head,24.0,276.5,2,1,graphene 360+   graphite,179.95,305.0
+Racquet22,100.0,27.0,1,66.0,52.5,Yonex,23.7,289.0,0,1,2g-namd flex force   graphite   vdm,229.0,306.0
+Racquet23,98.0,27.0,0,65.0,52.5,Yonex,22.2,314.0,0,2,2g-namd flex force   graphite   vdm,239.0,325.0
+Racquet24,98.0,27.0,0,65.0,52.5,Yonex,22.2,295.5,0,1,2g-namd flex force   graphite   vdm,229.0,307.0
+Racquet25,100.0,27.0,0,64.0,52.5,Head,23.0,309.0,0,2,graphene 360+   graphite,229.95,329.0
+Racquet26,98.0,27.0,0,69.0,52.0,Tecnifibre,22.5,323.5,0,2,dynacore xtc   graphite,229.95,323.0
+Racquet27,100.0,27.0,1,68.0,52.5,Yonex,23.8,309.0,0,1,hm graphite   m40x with vdm hm graphite   m40x   vdm,239.0,320.0
+Racquet28,100.0,27.0,0,55.0,57.5,Pro,21.0,309.0,0,2,spiraltech graphite,199.0,319.0
+Racquet29,100.0,27.0,1,73.0,55.0,Wilson,24.0,309.0,0,1,carbon fiber,159.0,315.0
+Racquet30,100.0,27.0,1,72.0,55.0,Wilson,23.7,310.5,0,1,high performance carbon fiber,149.0,333.0
+Racquet31,100.0,27.0,1,71.0,55.0,Wilson,23.7,309.5,0,1,high performance carbon fiber,149.0,335.0
+Racquet32,95.0,27.0,0,63.0,52.5,Dunlop,20.5,317.5,0,2,sonic core with infinergy,219.99,319.0
+Racquet33,97.0,27.0,0,68.0,55.0,Wilson,21.5,348.5,0,2,braided graphite   kevlar,249.0,330.0
+Racquet34,107.0,27.2,1,66.0,54.5,Babolat,24.0,294.5,0,1,htr   graphite,209.0,310.0
+Racquet35,100.0,27.0,1,67.0,55.0,Dunlop,23.0,309.0,0,1,sonic core with infinergy   graphite,199.99,322.0
+Racquet36,102.0,27.0,1,60.0,52.5,Head,23.3,289.0,0,1,graphene 360+   graphite,199.95,310.0
+Racquet37,98.0,27.0,0,62.0,55.0,Wilson,20.6,315.5,0,2,high performance carbon fiber,219.0,331.0
+Racquet38,97.0,27.0,0,65.0,55.0,Wilson,21.5,323.5,0,2,braided graphite   kevlar,229.0,320.0
+Racquet39,100.0,27.0,1,70.0,54.5,Babolat,24.0,277.5,0,1,htr   graphite,199.0,300.0
+Racquet40,100.0,27.0,0,72.0,54.5,Babolat,24.0,323.5,0,2,htr   graphite,229.0,320.0
+Racquet41,98.0,27.0,1,64.0,52.5,Yonex,22.0,312.5,0,2,hm graphite   m40x with vdm hm graphite   m40x   vdm,239.0,317.0
+Racquet42,105.0,27.0,1,62.0,55.0,Dunlop,21.5,303.5,0,1,sonic core with infinergy   graphite,199.99,313.0
+Racquet43,98.0,27.0,1,64.0,52.5,Head,21.3,309.0,0,2,graphene 360+   graphite,229.95,325.0
+Racquet44,100.0,27.0,1,63.0,52.5,Head,24.0,309.0,0,2,graphene 360+   graphite,179.95,320.0
+Racquet45,100.0,27.0,0,62.0,52.5,Head,23.0,319.0,0,2,graphene 360+   graphite,239.95,330.0
+Racquet46,98.0,27.0,1,64.0,55.0,Dunlop,21.5,297.5,0,1,sonic core with infinergy   graphite,199.99,315.0
+Racquet47,110.0,27.6,2,70.0,54.5,Babolat,25.0,263.5,0,0,htr   graphite,209.0,304.0
+Racquet48,100.0,27.0,1,49.0,52.5,Wilson,24.5,302.5,0,2,high performance carbon fiber,249.0,327.0
+Racquet49,95.0,27.0,0,64.0,52.5,Yonex,21.5,318.0,0,2,2g-namd flex force   graphite   vdm,239.0,324.0
+Racquet50,100.0,27.0,0,56.0,57.5,Pro,21.0,325.0,0,2,spiraltech graphite,199.0,325.0
+Racquet51,100.0,27.0,1,70.0,55.0,Dunlop,24.0,292.5,0,1,sonic core with infinergy   graphite,199.99,315.0
+Racquet52,100.0,27.0,0,68.0,52.5,Head,22.0,294.0,0,2,graphene xt   graphite,89.95,317.0
+Racquet53,100.0,27.0,1,69.0,55.0,Volkl,24.3,283.5,0,1,v-cell graphite,189.99,304.0
+Racquet54,100.0,27.5,1,70.0,47.5,Yonex,23.8,307.5,0,1,hm graphite   m40x with vdm hm graphite   m40x   vdm,229.0,335.0
+Racquet55,100.0,27.0,1,65.0,55.0,Dunlop,24.0,309.0,0,1,sonic core with infinergy & graphite,199.99,326.0
+Racquet56,98.0,27.0,0,64.0,52.5,Head,21.3,303.5,0,2,graphene xt   graphite,99.95,322.0
+Racquet57,100.0,27.0,0,68.0,55.0,Volkl,24.3,318.0,0,2,v-cell graphite,209.99,317.0
+Racquet58,108.0,27.25,2,67.0,47.5,Yonex,26.3,263.5,0,0,hm graphite   m40x with vdm hm graphite   m40x   vdm,189.0,305.0
+Racquet59,98.0,27.0,0,66.0,54.0,Tecnifibre,21.7,323.5,0,2,dynacore graphite xtc,229.95,325.0
+Racquet60,100.0,26.6,1,68.0,52.5,Tecnifibre,24.3,291.5,0,1,graphite,179.95,298.0
+Racquet61,100.0,27.0,0,62.0,52.5,Head,23.0,319.0,0,2,graphene 360+   graphite,239.95,330.0
+Racquet62,102.0,27.0,1,68.0,52.5,Babolat,24.0,289.5,0,1,graphite,99.0,312.0
+Racquet63,105.0,27.0,1,66.0,57.0,Head,23.7,283.5,2,1,graphene 360+   graphite,189.95,310.0
+Racquet64,100.0,27.0,1,71.0,55.0,Dunlop,24.0,278.0,0,0,sonic core with infinergy   graphite,179.99,295.0
+Racquet65,93.0,27.0,0,65.0,52.5,Head,20.0,327.5,0,2,graphene 360+   graphite,229.95,328.0
+Racquet66,98.0,27.0,1,64.0,52.5,Yonex,22.0,292.5,0,2,hm graphite   m40x with vdm hm graphite   m40x   vdm,219.0,312.0
+Racquet67,95.0,27.0,0,65.0,52.5,Head,22.0,323.0,0,2,graphene 360+   graphite,229.95,327.0
+Racquet68,100.0,27.0,0,64.0,52.5,Head,23.0,283.5,0,1,graphene 360+   graphite,219.95,317.0
+Racquet69,105.0,27.6,2,68.0,53.0,Volkl,25.0,283.5,0,0,v-cell graphite,219.99,305.0
+Racquet70,98.0,27.0,1,70.0,55.0,Dunlop,22.0,312.5,0,2,sonic core with infinergy   graphite,199.99,320.0
+Racquet71,100.0,27.0,1,68.0,52.0,Wilson,24.3,266.0,0,1,high performance carbon fiber,179.0,290.0
+Racquet72,100.0,27.0,0,67.0,55.0,Volkl,22.7,306.0,0,2,v-cell graphite,209.99,312.0
+Racquet73,112.0,27.5,2,72.0,54.5,Babolat,27.7,271.0,2,0,graphite,129.0,324.0
+Racquet74,98.0,27.0,1,68.0,52.5,Yonex,22.7,278.0,0,1,hm graphite   m40x with vdm hm graphite   m40x   vdm,179.0,300.0
+Racquet75,100.0,27.0,0,67.0,52.5,Head,22.0,307.5,0,2,graphene xt   graphite,99.95,320.0
+Racquet76,97.0,27.0,0,64.0,52.5,Yonex,20.0,318.0,0,2,h.m. graphite black micro core namd,239.0,317.0
+Racquet77,102.0,28.0,0,68.0,52.5,Wilson,22.0,314.0,0,2,braided graphite   countervail,249.0,347.0
+Racquet78,102.0,27.0,1,67.0,52.5,Babolat,24.0,267.5,2,1,graphite,99.0,306.0
+Racquet79,102.0,27.0,1,68.0,52.5,Yonex,24.7,258.0,2,1,hm graphite   m40x with vdm hm graphite   m40x   vdm,159.0,299.0
+Racquet80,107.0,27.5,2,70.0,55.0,Dunlop,24.3,273.0,1,0,sonic core with infinergy   graphite,179.99,320.0
+Racquet81,100.0,27.0,1,70.0,54.5,Babolat,24.0,309.0,0,2,htr   graphite,229.0,320.0
+Racquet82,98.0,27.0,0,63.0,47.5,Yonex,22.0,323.5,0,2,hm graphite   m40x with vdm hm graphite   m40x   vdm,229.0,328.0
+Racquet83,100.0,27.0,1,68.0,55.0,Dunlop,24.0,294.0,0,1,sonic core with infinergy & graphite,179.99,318.0
+Racquet84,100.0,27.0,1,67.0,55.0,Dunlop,24.0,278.0,0,1,sonic core with infinergy & graphite,179.99,302.0
+Racquet85,97.0,27.0,0,65.0,52.5,Yonex,20.0,338.0,0,2,h.m. graphite black micro core namd,239.0,330.0
+Racquet86,100.0,27.0,1,66.0,57.0,Head,23.3,309.0,0,2,graphene 360+   graphite,199.95,325.0
+Racquet87,100.0,27.0,1,72.0,52.0,Wilson,24.3,307.5,0,1,high performance carbon fiber,199.0,310.0
+Racquet88,108.0,27.25,2,69.0,52.0,Wilson,26.2,278.0,0,0,high performance carbon fiber,189.0,308.0
+Racquet89,105.0,27.0,1,66.0,57.0,Head,23.7,270.0,2,1,graphene 360+   graphite,189.95,310.0
+Racquet90,105.0,27.0,2,67.0,52.5,Yonex,26.3,283.5,0,0,hm graphite   m40x with vdm hm graphite   m40x   vdm,209.0,305.0
+Racquet91,98.0,27.0,0,66.0,52.5,Head,21.7,312.5,0,2,graphene 360+   graphite,219.95,320.0
+Racquet92,98.0,27.0,0,67.0,54.5,Babolat,22.0,314.0,0,2,graphite,259.0,321.0
+Racquet93,100.0,27.0,1,70.0,55.0,Volkl,22.7,292.0,0,1,v-cell graphite,209.99,303.0
+Racquet94,100.0,27.0,1,66.0,52.5,Yonex,21.0,309.0,0,1,h.m. graphite black micro core namd,239.0,318.0
+Racquet95,100.0,26.6,1,71.0,52.5,Tecnifibre,24.3,277.5,1,1,graphite,179.95,285.0
+Racquet96,100.0,27.0,1,68.0,52.5,Yonex,23.8,309.0,0,1,hm graphite   m40x with vdm hm graphite   m40x   vdm,229.0,320.0
+Racquet97,100.0,27.0,1,71.0,55.0,Dunlop,24.0,294.0,0,1,sonic core with infinergy   graphite,179.99,303.0
+Racquet98,115.0,27.9,2,71.0,60.0,Wilson,28.0,247.0,2,0,graphite,199.0,335.0
+Racquet99,98.0,27.5,1,64.0,47.5,Yonex,22.0,314.0,0,1,hm graphite   m40x with vdm hm graphite   m40x   vdm,229.0,333.0
+Racquet100,100.0,27.0,1,68.0,52.5,Head,25.0,273.0,2,1,graphene 360+   graphite,199.95,306.0
+Racquet101,115.0,27.4,2,69.0,57.0,Head,26.7,263.5,2,0,grahene 360+   graphite,199.95,320.0
+Racquet102,100.0,27.0,1,67.0,47.5,Yonex,23.8,276.5,0,1,hm graphite   m40x with vdm hm graphite   m40x   vdm,209.0,305.0
+Racquet103,100.0,27.0,1,68.0,52.5,Yonex,23.8,293.0,0,1,hm graphite   m40x with vdm hm graphite   m40x   vdm,219.0,311.0
+Racquet104,102.0,27.0,1,60.0,52.5,Head,23.3,287.5,0,1,graphene xt   graphite,89.95,300.0
+Racquet105,97.0,27.0,0,60.0,52.5,Yonex,20.0,328.5,0,2,h.m. graphite black micro core namd,239.0,325.0
+Racquet106,105.0,27.25,2,66.0,50.0,Dunlop,24.2,278.0,0,0,sonic core with infinergy & graphite,179.99,313.0
+Racquet107,102.0,27.0,1,65.0,52.5,Babolat,24.0,287.0,0,1,graphite,159.0,308.0
+Racquet108,100.0,27.0,0,64.0,52.5,Head,23.0,309.0,0,2,graphene 360+   graphite,229.95,329.0
+Racquet109,100.0,27.0,1,67.0,47.5,Yonex,23.8,276.5,0,1,hm graphite   m40x with vdm hm graphite   m40x   vdm,209.0,305.0
+Racquet110,105.0,26.6,1,68.0,52.5,Tecn,24.3,268.5,0,1,graphite,179.95,284.0
+Racquet111,98.0,27.0,0,60.0,52.5,Head,20.0,327.5,0,2,graphene 360+   graphite,229.95,325.0
+Racquet112,98.0,27.0,1,64.0,52.5,Yonex,22.0,312.5,0,2,hm graphite   m40x with vdm hm graphite   m40x   vdm,229.0,317.0
+Racquet113,100.0,27.0,1,69.0,52.5,Head,25.0,294.0,0,1,graphene 360+   graphite,209.95,308.0
+Racquet114,99.0,27.0,0,65.0,52.5,Head,21.5,314.0,0,2,graphene 360+   graphite,229.95,326.0
+Racquet115,115.0,27.7,2,66.0,57.0,Head,29.0,238.5,2,0,graphene 360+   graphite,179.95,306.0
+Racquet116,100.0,27.0,1,69.0,52.0,Wilson,24.3,287.5,0,1,high performance carbon fiber,189.0,294.0
+Racquet117,100.0,27.0,1,71.0,55.0,Dunlop,24.0,309.0,0,1,sonic core with infinergy   graphite,199.99,317.0
+Racquet118,100.0,27.0,1,65.0,55.0,Dunlop,24.0,319.5,0,2,sonic core with infinergy & graphite,199.99,336.0
+Racquet119,100.0,27.0,1,66.0,52.5,Yonex,21.0,289.0,1,1,h.m. graphite black micro core namd,239.0,312.0
+Racquet120,100.0,27.0,0,68.0,55.0,Volkl,22.7,314.0,0,2,v cell & graphite,199.99,324.0
+Racquet121,100.0,27.0,0,66.0,55.0,Volkl,22.7,323.5,0,2,v-cell graphite,209.99,316.0
+Racquet122,100.0,27.5,0,66.0,57.5,Pro,21.5,318.0,0,2,graphite spiraltech carbon,179.0,337.0
+Racquet123,98.0,27.0,0,66.0,54.5,Babolat,21.7,328.5,0,2,graphite,219.0,334.0
+Racquet124,98.0,27.0,0,66.0,54.5,Babolat,22.0,309.0,0,2,graphite,249.0,317.0
+Racquet125,110.0,27.8,2,69.0,53.0,Volkl,27.0,276.5,0,0,v cell & graphite,219.99,317.0
+Racquet126,98.0,27.0,0,63.0,57.5,Pro,19.5,307.5,0,2,graphite spiraltech carbon,169.0,323.0
+Racquet127,105.0,27.5,1,72.0,57.5,Pro,26.0,267.5,0,1,graphite spiraltech carbon,189.0,316.0
+Racquet128,100.0,27.0,0,65.0,52.5,Yonex,23.7,308.0,0,1,h.m. graphite black micro core namd,229.0,325.0
+Racquet129,98.0,27.0,0,63.0,52.5,Yonex,21.7,313.0,0,1,h.m. graphite black micro core namd,229.0,318.0
+Racquet130,100.0,27.5,0,65.0,54.5,Babolat,24.0,310.5,0,2,graphite,229.0,329.0
+Racquet131,98.0,27.0,0,65.0,54.0,Tecnifibre,21.7,314.0,0,2,dynacore graphite xtc,229.95,326.0
+Racquet132,100.0,27.0,0,68.0,54.5,Babolat,21.7,309.0,0,2,graphite,219.0,320.0
+Racquet133,100.0,27.0,1,73.0,54.0,Tecnifibre,25.4,292.5,0,1,graphite,209.95,314.0
+Racquet134,100.0,27.0,1,67.0,54.5,Babolat,24.0,308.0,0,2,graphite,229.0,324.0
+Racquet135,100.0,27.0,0,50.0,53.0,Wilson,24.5,317.5,0,2,high performance carbon fiber,249.0,325.0
+Racquet136,98.0,27.0,0,60.0,55.0,Volkl,20.0,336.0,0,2,carbon graphite,179.99,331.0
+Racquet137,100.0,27.5,1,68.0,52.5,Yonex,23.7,309.0,0,1,h.m. graphite black micro core namd,229.0,341.0
+Racquet138,98.0,27.0,0,62.0,55.0,Wilson,20.6,314.0,0,2,braided graphite + basalt,219.0,335.0
+Racquet139,98.0,27.0,1,63.0,52.5,Dunlop,21.5,296.0,0,1,sonic core with infinergy,99.99,318.0
+Racquet140,108.0,27.25,1,54.0,53.0,Wilson,24.5,289.0,1,1,high performance carbon fiber,229.0,313.0
+Racquet141,104.0,27.0,2,60.0,52.5,Head,24.0,278.0,0,0,graphene 360+ & graphite,129.95,300.0
+Racquet142,98.0,27.0,0,65.0,52.5,Yonex,21.7,314.5,0,1,h.m. graphite black micro core namd,229.0,318.0
+Racquet143,115.0,27.8,2,70.0,53.0,Volkl,28.0,262.0,2,0,vcell graphite,249.99,314.0
+Racquet144,100.0,27.0,1,67.0,54.5,Babolat,24.0,276.0,1,1,graphite,199.0,313.0
+Racquet145,98.0,27.0,0,66.0,55.0,Volkl,20.3,327.5,0,2,vcell graphite,199.99,323.0
+Racquet146,100.0,27.0,1,70.0,55.0,Volkl,22.7,269.0,0,1,vcell graphite,149.99,297.0
+Racquet147,104.0,27.0,1,60.0,52.5,Head,24.0,294.0,0,1,graphene 360+ & graphite,129.95,310.0
+Racquet148,98.0,27.0,1,65.0,52.0,Yonex,21.7,296.0,0,1,h.m. graphite black micro core namd,229.0,310.0
+Racquet149,100.0,27.0,1,66.0,57.5,Pro,21.5,298.0,0,1,graphite spiraltech carbon,179.0,316.0
+Racquet150,99.0,27.0,1,70.0,55.0,Volkl,22.0,312.5,0,2,vcell graphite,199.99,320.0
+Racquet151,100.0,27.0,1,69.0,54.5,Babolat,21.7,294.0,0,1,graphite,209.0,310.0
+Racquet152,98.0,27.0,0,63.0,57.5,Pro,19.5,323.5,0,2,graphite spiraltech carbon,169.0,320.0
+Racquet153,98.0,27.5,1,64.0,52.5,Yonex,21.7,314.0,0,1,h.m. graphite black micro core namd,229.0,340.0
+Racquet154,102.0,27.0,1,69.0,55.0,Volkl,25.0,293.5,0,1,graphite,169.99,318.0
+Racquet155,115.0,27.6,2,66.0,52.5,Babolat,25.7,249.5,2,0,graphite,169.0,314.0
+Racquet156,98.0,27.0,0,62.0,55.0,Wilson,20.6,314.0,0,2,braided graphite + basalt,219.0,331.0
+Racquet157,100.0,27.0,1,54.0,53.0,Wilson,24.5,273.0,0,1,high performance carbon fiber,199.0,300.0
+Racquet158,100.0,27.0,0,66.0,57.5,Pro,21.5,318.0,0,2,graphite spiraltech carbon,179.0,320.0
+Racquet159,100.0,27.0,1,69.0,52.5,Yonex,23.7,309.5,0,1,h.m. graphite black micro core namd,229.0,320.0
+Racquet160,98.0,27.0,0,67.0,54.5,Babolat,21.7,314.5,0,2,graphite,219.0,330.0
+Racquet161,98.0,27.0,0,64.0,52.5,Dunlop,21.5,314.5,0,2,sonic core with infinergy,99.99,318.0
+Racquet162,100.0,27.0,0,65.0,54.5,Babolat,24.0,322.5,0,2,graphite,229.0,331.0
+Racquet163,100.0,27.0,1,52.0,53.0,Wilson,24.5,289.0,0,1,high performance carbon fiber,229.0,310.0
+Racquet164,100.0,27.0,2,65.0,52.0,Yonex,24.0,279.0,0,1,h.m. graphite black micro core namd,179.0,305.0
+Racquet165,104.0,27.5,1,60.0,55.0,Wilson,22.0,298.0,0,1,braided graphite + basalt,199.0,321.0
+Racquet166,100.0,27.0,1,73.0,54.0,Tecnifibre,25.4,278.0,1,1,graphite,209.95,306.0
+Racquet167,104.0,27.3,1,70.0,55.0,Volkl,23.7,298.0,0,1,v cell & graphite,179.99,321.0
+Racquet168,110.0,27.6,2,68.0,55.0,Volkl,26.0,294.0,0,0,vcell graphite,199.99,312.0
+Racquet169,115.0,27.6,2,68.0,55.0,Volkl,28.0,273.5,0,0,vcell graphite,229.99,317.0
+Racquet170,100.0,27.0,1,67.0,54.5,Babolat,24.0,293.5,0,1,graphite,209.0,311.0
+Racquet171,100.0,27.0,0,49.0,53.0,Wilson,24.5,302.5,0,2,high performance carbon fiber,249.0,327.0
+Racquet172,100.0,27.0,1,68.0,55.0,Wilson,22.0,294.0,0,1,braided graphite + basalt,199.0,317.0
+Racquet173,105.0,27.5,1,72.0,57.5,Pro,26.0,293.0,0,1,graphite spiraltech carbon,189.0,320.0
+Racquet174,115.0,27.5,2,75.0,52.5,Dunlop,27.0,262.0,2,0,sonic core,229.0,314.0
+Racquet175,100.0,27.0,2,65.0,52.0,Yonex,24.0,279.0,0,1,h.m. graphite black micro core namd,179.0,305.0
+Racquet176,102.0,27.0,1,68.0,55.0,Volkl,25.0,294.0,0,1,vcell graphite,199.99,308.0
+Racquet177,98.0,27.0,0,67.0,54.5,Babolat,21.7,314.5,0,2,graphite,219.0,332.0
+Racquet178,98.0,27.0,0,63.0,57.5,Pro,19.5,332.5,0,2,graphite spiraltech carbon,169.0,327.0
+Racquet179,98.0,27.0,0,52.0,53.0,Wilson,24.0,317.5,0,2,high performance carbon fiber,249.0,329.0
+Racquet180,98.0,27.0,0,69.0,55.0,Volkl,20.3,308.0,0,2,vcell graphite,199.99,312.0
+Racquet181,110.0,27.5,2,76.0,52.5,Dunlop,26.3,262.0,2,0,sonic core,229.0,315.0
+Racquet182,100.0,27.0,1,68.0,54.5,Babolat,24.0,309.5,0,2,graphite,219.0,323.0
+Racquet183,100.0,27.0,0,65.0,57.5,Pro,22.0,305.0,0,2,spiral tech carbon graphite,159.99,320.0
+Racquet184,137.0,29.0,2,64.0,57.5,Gamma,22.7,286.5,2,0,graphite,219.99,412.0
+Racquet185,100.0,27.0,0,70.0,54.5,Babolat,24.0,322.0,0,2,graphite,219.0,320.0
+Racquet186,107.0,27.0,0,56.0,57.0,Head,21.0,302.0,0,2,graphite microgel,89.95,319.0
+Racquet187,105.0,27.5,1,70.0,57.5,Pro,24.2,305.0,0,2,spiral tech carbon graphite,169.99,337.0
+Racquet188,110.0,27.5,1,70.0,58.0,Wilson,26.5,246.5,2,1,hyper carbon and graphite,99.0,307.0
+Racquet189,115.0,27.25,1,69.0,50.0,Yonex,27.0,268.0,2,0,h.m. graphite vibslayer carbon quake shut gel+,259.0,311.0
+Racquet190,100.0,27.5,0,69.0,54.5,Babolat,24.0,322.0,0,2,graphite,219.0,321.0
+Racquet191,115.0,27.6,2,66.0,52.5,Babolat,25.7,249.5,2,0,graphite,159.0,314.0
+Racquet192,100.0,27.38,1,65.0,55.0,Pacific,23.8,293.5,0,2,graphite basalt,129.95,303.0
+Racquet193,100.0,27.0,0,62.0,57.5,Pro,22.5,302.0,0,2,spiral tech carbon graphite,129.95,314.0
+Racquet194,105.0,27.0,1,72.0,47.5,Yonex,27.0,279.0,0,0,h.m. graphite vibslayer carbon quake shut gel+,259.0,306.0
+Racquet195,97.0,27.0,1,68.0,55.0,Wilson,23.0,296.0,0,2,braided graphite,199.0,313.0
+Racquet196,115.0,27.5,2,74.0,61.5,Head,28.5,232.5,2,0,graphite intellifiber,99.95,315.0
+Racquet197,105.0,27.25,1,63.0,47.5,Dunlop,24.2,276.0,0,1,sonic core graphite,89.0,322.0
+Racquet198,100.0,27.0,1,67.0,52.5,Dunlop,24.0,293.5,0,2,sonic core graphite,99.99,311.0
+Racquet199,98.0,27.0,0,57.0,57.0,Head,21.0,302.0,0,2,graphite microgel,89.95,308.0
+Racquet200,117.0,27.0,2,64.0,60.0,Gamma,22.5,256.5,2,1,graphite,219.99,310.0
+Racquet201,100.0,27.36,0,57.0,55.0,Pacific,23.3,293.5,0,2,graphite basalt,149.95,323.0
+Racquet202,100.0,27.0,0,63.0,57.5,Pro,22.0,327.5,0,2,spiral tech carbon graphite,159.99,324.0
+Racquet203,107.0,27.2,1,66.0,54.5,Babolat,24.0,293.5,0,1,graphite,199.0,321.0
+Racquet204,115.0,27.5,2,76.0,61.5,Head,28.5,243.5,2,1,graphite titanium composite,79.95,303.0
+Racquet205,100.0,27.0,1,67.0,54.5,Babolat,24.0,293.5,0,1,graphite,199.0,321.0
+Racquet206,105.0,27.5,2,68.0,57.5,Pro,24.2,265.0,0,1,spiral tech carbon graphite,169.99,319.0
+Racquet207,95.0,27.0,0,60.0,52.5,Yonex,20.7,317.5,0,2,h.m. graphite black micro core namd,229.0,323.0
+Racquet208,100.0,27.5,1,69.0,54.5,Babolat,24.0,308.0,0,1,graphite,219.0,320.0
+Racquet209,100.0,27.0,2,72.0,55.0,Genesis,24.0,325.0,0,2,toray carbon fibers,169.9,323.0

@@ -1,0 +1,7 @@
+<g class="racquet">
+    <ellipse class="head" ry="100" rx="80" cy="100" cx="80" stroke="#000" fill="#fff"/>
+    <path class="throat" transform="rotate(180, 80, 230.267)" d="m53.5,254.95793l26.5,-49.38096l26.5,49.38096l-53,0z" stroke="#000" fill="#fff"/>
+    <rect class="handle" height="100" width="15" y="259.56669" x="72.5" stroke="#000" fill="#fff"/>
+</g>
+
+designed on: https://editor.method.ac/#move_front
