@@ -874,14 +874,14 @@ const set_up_store = () => {
     
             // bind events to racquet
             g.on("mouseover", (e,d) => {
-                let sel_g = d3.select(e.path[1]);
+                let sel_g = d3.select(`#${e.target.parentElement.id}`);
                 set_scale(sel_g, 2);
                 sel_g.raise();
             }).on("mouseout", (e,d) => {
-                let sel_g = d3.select(e.path[1]);
+                let sel_g = d3.select(`#${e.target.parentElement.id}`);
                 set_scale(sel_g, 1);
             }).on("click", (e,d) => {
-                let sel_g = d3.select(e.path[1]);
+                let sel_g = d3.select(`#${e.target.parentElement.id}`);
                 self.focus_selected({
                     racquet:sel_g.attr("id"), 
                     scatter_update:true,
@@ -971,7 +971,7 @@ const add_scatter_plot = () => {
         /** Adds hover behavior to each dot on the 
          *  scatter plot. */
         scatter_svg.selectAll(".dot").on("mouseover", (e,d) => {
-            let sel_dot = d3.select(e.path[0]); //current dot
+            let sel_dot = d3.select(`#${e.target.id}`); //current dot
             let sel_dot_data = data[Number( // data of current dot
                 sel_dot.attr("id").replace("dot", "")
             )];
@@ -1053,7 +1053,7 @@ const add_scatter_plot = () => {
                     .attr("opacity", 0.5);
 
                 // get selected dot
-                let sel_dot = d3.select(e.path[0]);
+                let sel_dot = d3.select(`#${e.target.id}`);
                 let sel_dot_data = data[Number(
                     sel_dot.attr("id").replace("dot", "")
                 )];
@@ -1458,7 +1458,7 @@ const add_bar_plot = () => {
         bar_svg.selectAll(".bar")
             .on("mouseover", e => {
                 // get selected bar and its index
-                let sel_bar = d3.select(e.path[0]);
+                let sel_bar = d3.select(`#${e.target.id}`);
                 let sel_i = Number(
                     sel_bar.attr("id").replace("bar","")
                 )
@@ -1477,7 +1477,7 @@ const add_bar_plot = () => {
             
         }).on("mouseout", e => {
             // get selected bar and its index
-            let sel_bar = d3.select(e.path[0]);
+            let sel_bar = d3.select(`#${e.target.id}`);
             let sel_i = Number(sel_bar.attr("id").replace("bar",""))
             // if there are more than 11 bars, 
             // make tick texts invisible
@@ -1494,7 +1494,7 @@ const add_bar_plot = () => {
 
         }).on("click", e => {
             // get selected bar and its index
-            let sel_bar = d3.select(e.path[0]);
+            let sel_bar = d3.select(`#${e.target.id}`);
             let sel_i = Number(sel_bar.attr("id")
                         .replace("bar",""));
             // get bar that is corresponding to 
@@ -1988,7 +1988,7 @@ const add_pie_plot = () => {
          *  mouse moves over a wedge. */
 
         // get selected wedge and its data
-        let sel_wedge = d3.select(e.path[0]);
+        let sel_wedge = d3.select(`#${e.target.id}`);
         let wedge_data = Object.entries(plot_data)[
             Number(sel_wedge.attr("id").replace("wedge",""))
         ]
@@ -2009,7 +2009,7 @@ const add_pie_plot = () => {
          *  mouse moves out of a wedge. */
 
         // get selected wedge and its data
-        let sel_wedge = d3.select(e.path[0]);
+        let sel_wedge = d3.select(`#${e.target.id}`);
         let wedge_id = Number(
             sel_wedge.attr("id").replace("wedge","")
         );
@@ -2045,7 +2045,7 @@ const add_pie_plot = () => {
          *  wedge is clicked. */
 
         // get selected wedge and its data
-        let sel_wedge = d3.select(e.path[0]);
+        let sel_wedge = d3.select(`#${e.target.id}`);
         let wedge_id = Number(
             sel_wedge.attr("id").replace("wedge","")
         )
